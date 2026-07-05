@@ -75,7 +75,7 @@ body.modal-open {
     display: flex;
     align-items: center;
     gap: 12px;
-    font-family: "early-sans-variable", sans-serif;
+    font-family: 'Milky Vintage', sans-serif;
     font-weight: 900;
     font-size: 32px;
     text-transform: uppercase;
@@ -85,7 +85,7 @@ body.modal-open {
 }
 
 .header .logo {
-    font-size: 2.2rem !important;
+    font-size: 2.9rem !important;
     font-weight: 900 !important;  
     letter-spacing: 3px !important;
     text-transform: uppercase;
@@ -672,7 +672,7 @@ body.modal-open {
 }
 
 .footer-logo { 
-    font-family: "early-sans-variable", sans-serif;
+    font-family: 'Milky Vintage', sans-serif;
     font-weight: 900;
     font-size: 1.8rem; 
     color: #111; 
