@@ -39,7 +39,7 @@ body {
     width: 100vw;
     height: 100vh;
     height: 100dvh; /* CORREGIDO: usa la altura real visible en iOS (con o sin barra de Safari) */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/bg.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/fondo/IMG_6191.png');
     background-size: cover;
     background-position: center;
     z-index: -1; 
@@ -200,7 +200,7 @@ body.modal-open {
     transition: top 0.6s cubic-bezier(0.77, 0, 0.175, 1);
 
     /* Imagen de fondo idéntica al Index */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/bg.png') !important;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/fondo/IMG_6198.png') !important;
     background-size: cover !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
